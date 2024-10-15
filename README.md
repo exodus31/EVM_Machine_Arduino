@@ -18,6 +18,6 @@ This project is an Electronic Voting Machine (EVM) built using an Arduino UNO, d
 - **3D-Printed Structure**: A custom-built frame to hold the Arduino, keypad, and other components.
 
 ## How It Works
-1. The voter enters their unique identification code using the 4x4 keypad.
+1. The voter enters the party code that he wants to vote for using the 4x4 keypad.
 2. After the vote is registered, the system enters a 2-minute sleep mode to prevent multiple votes in quick succession.
 3. The system is equipped with error handling to manage invalid input and ensure voting security.
